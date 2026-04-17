@@ -180,6 +180,6 @@ Future improvements include incorporating richer location-based features and enh
 Data Analyst | Data Science | Real Estate  
 
  Connect with me:  
-- LinkedIn: https://www.linkedin.com/in/vincent-bedu-34980919a/  
-- Portfolio: https://vincentbedu.github.io/  
-- GitHub: https://github.com/VincentBEDU
+- [LinkedIn](https://www.linkedin.com/in/vincent-bedu-34980919a/)
+- [Portfolio](https://vincentbedu.github.io/)
+- [GitHub](https://github.com/VincentBEDU)

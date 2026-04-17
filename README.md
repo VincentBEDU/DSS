@@ -14,7 +14,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project explores how **building characteristics and energy efficiency** impact housing prices in Reading, UK.
 
@@ -25,7 +25,7 @@ Using **statistical modelling and machine learning**, the analysis identifies ke
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyse housing price trends over time  
 - Identify key factors influencing property prices  

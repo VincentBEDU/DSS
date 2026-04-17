@@ -132,20 +132,20 @@ Thus, OLS outperformed Random Forest, showing **linear relationships dominate th
 
 ---
 
-## Project Structure
-housing-price-analysis-reading/
-│
-├── notebooks/
-│ └── DSSS_CourseWork.ipynb
-│
-├── report/
-│ └── DSSS_CourseWork.pdf
-│
-├── data/
-│ └── (external dataset)
-│
-└── README.md
+## 3. Project Structure
 
+    housing-price-analysis-reading/
+    │
+    ├── notebooks/
+    │   └── DSSS_CourseWork.ipynb
+    │
+    ├── report/
+    │   └── DSSS_CourseWork.pdf
+    │
+    ├── data/
+    │   └── (external dataset)
+    │
+    └── README.md
 
 ---
 

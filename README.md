@@ -155,3 +155,31 @@ Thus, OLS outperformed Random Forest, showing **linear relationships dominate th
 3. Run all cells from top to bottom.  
 4. Review the visualisations and model outputs.  
 5. Refer to the project report `(CourseWork.pdf)` for detailed insights.
+
+---
+
+## Project Visuals
+
+| Residual vs Fitted Plot | Histogram of Residuals | QQ Plot |
+|------------------------|----------------------|--------|
+| ![](visuals/residual_vs_fitted.png) | ![](visuals/residual_histogram.png) | ![](visuals/qq_plot.png) |
+
+---
+
+## Status
+
+This project is complete, with data cleaning, exploratory analysis, and modelling successfully carried out. The analysis identifies key drivers of housing prices and demonstrates the effectiveness of regression techniques on real-world data.
+
+Future improvements include incorporating richer location-based features and enhancing model performance through advanced techniques.
+
+---
+
+##  Author
+
+**Vincent Bedu**  
+Data Analyst | Data Science | Real Estate  
+
+ Connect with me:  
+- LinkedIn: https://www.linkedin.com/in/vincent-bedu-34980919a/  
+- Portfolio: https://vincentbedu.github.io/  
+- GitHub: https://github.com/VincentBEDU

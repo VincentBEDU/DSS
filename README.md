@@ -160,8 +160,8 @@ Thus, OLS outperformed Random Forest, showing **linear relationships dominate th
 
 ## Project Visuals
 
-| House Price Trend from 1995 - 2023 | Residual vs Fitted Plot | Histogram of Residuals | QQ Plot |
-|------------------------|----------------------|--------|
+| Housing Price Trend (1995–2023) | Residual vs Fitted | Residual Distribution | QQ Plot |
+|--------------------------------|--------------------|------------------------|--------|
 | ![](visuals/price-trend.png) | ![](visuals/residual_vs_fitted.png) | ![](visuals/residual_histogram.png) | ![](visuals/qq_plot.png) |
 
 ---

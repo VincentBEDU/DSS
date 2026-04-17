@@ -13,3 +13,24 @@
 </p>
 
 ---
+
+## 📌 Overview
+
+This project explores how **building characteristics and energy efficiency** impact housing prices in Reading, UK.
+
+Using **statistical modelling and machine learning**, the analysis identifies key drivers of property value and evaluates model performance.
+
+📊 Dataset: **69,656 property records** :contentReference[oaicite:0]{index=0}  
+📍 Location: Reading, United Kingdom  
+
+---
+
+## 🎯 Objectives
+
+- Analyse housing price trends over time  
+- Identify key factors influencing property prices  
+- Build and evaluate regression models  
+- Compare statistical vs machine learning approaches  
+- Generate actionable insights for stakeholders  
+
+---

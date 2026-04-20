@@ -100,8 +100,8 @@ Using **statistical modelling and machine learning**, the analysis identifies ke
 
 | Model | R² | RMSE | Verdict |
 |------|----|------|--------|
-| OLS Regression | ~0.24 | Lower |  Best |
-| Random Forest | ~0.15 | Higher |  Weaker |
+| OLS Regression | 0.24 | Lower |  Best |
+| Random Forest | 0.15 | Higher |  Weaker |
 
 Thus, OLS outperformed Random Forest, showing **linear relationships dominate the data** 
 
@@ -179,4 +179,4 @@ Future improvements include incorporating richer location-based features and enh
 **Vincent Bedu**  
 Data Analyst | Data Science | Real Estate  
 
- Connect with me:  - [LinkedIn](https://www.linkedin.com/in/vincent-bedu-34980919a/) - [Portfolio](https://vincentbedu.github.io/) - [GitHub](https://github.com/VincentBEDU)
+ Connect with me:   [LinkedIn](https://www.linkedin.com/in/vincent-bedu-34980919a/)  [Portfolio](https://vincentbedu.github.io/)  [GitHub](https://github.com/VincentBEDU)

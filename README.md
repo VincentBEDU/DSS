@@ -43,7 +43,7 @@ Using **statistical modelling and machine learning**, the analysis identifies ke
 ✔️ **Leasehold properties tend to be cheaper**  
 ✔️ **Energy efficiency alone has limited direct influence**
 
- Model explains **~24% of price variation after transformation**  
+ Model explains **24% of price variation after transformation**  
 
 ---
 

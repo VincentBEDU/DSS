@@ -151,11 +151,11 @@ Thus, OLS outperformed Random Forest, showing **linear relationships dominate th
 
 ##  How to Run
 1. Clone the repository.  
-2. Open the notebook `notebooks/DSSS_CourseWork.ipynb` in Jupyter.  
-3. Run all cells from top to bottom.  
-4. Review the visualisations and model outputs.  
-5. Refer to the project report `(CourseWork.pdf)` for detailed insights.
-
+2. Open `notebooks/DSSS_CourseWork.ipynb` in Jupyter Notebook.  
+3. Run all cells sequentially to reproduce the analysis.  
+4. Explore the visualisations and model results.  
+5. Review the report `(CourseWork.pdf)` for key findings and conclusions.
+   
 ---
 
 ## Project Visuals

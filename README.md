@@ -132,7 +132,7 @@ Thus, OLS outperformed Random Forest, showing **linear relationships dominate th
 
 ---
 
-## 3. Project Structure
+##  Project Structure
 
     housing-price-analysis-reading/
     │
